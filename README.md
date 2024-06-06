@@ -38,49 +38,6 @@ Contributing
 We welcome contributions to enhance the functionality of the Grant Allocation Assistant. Feel free to open issues or submit pull requests.
 
 
-
-
-Results 
-
-Hello! My name is Gana,, I'm a Ph.D. student in Environmental Science at Stanford University. I'm looking for grants in the range of $50,000 to $100,000.My research focuses on the impact of climate change on marine biodiversity in coastal regions
-
-
-Hello Gana! Based on the retrieved documents and your specified criteria, here is a grant opportunity that might align with your research interests in Environmental Science, specifically focusing on the impact of climate change on marine biodiversity in coastal regions:
-
-Grant ID: G002
-Research Area: Environmental Science
-Project Proposal: Study on the impact of climate change on marine biodiversity in the Arctic region
-Grant Amount: $150,000
-Deadline: 2024-09-30
-Eligibility Criteria: Open to researchers with expertise in Environmental Science 1 .
-While the grant amount for G002 is above your specified range, it is the most relevant to your research focus as listed in the documents. If you can adjust your budget requirements or find additional funding sources to cover the difference, this could be a potential option to explore.
-
-Hello! My name is Alex,, I'm a Ph.D. student in Environmental Science at Stanford University. I'm looking for grants in the range of $50,000 to $100,000.My research focuses on the impact of climate change on marine biodiversity in coastal regions
-
-
-
-Hello Gana! Based on the information you've provided and the retrieved documents, here are a couple of grant opportunities that might align with your research interests and funding requirements:
-
-Grant ID: G002
-Research Area: Environmental Science
-Project Proposal: Study on the impact of climate change on marine biodiversity in the Arctic region
-Grant Amount: $150,000
-Deadline: 2024-09-30
-Eligibility Criteria: Open to researchers with expertise in Environmental Science 1 .
-Although the grant amount for G002 is slightly above your specified range, it closely matches your research focus. It might be worth considering if you can adjust your budget requirements.
-
-Grant ID: G031
-Research Area: Environmental Engineering
-Project Proposal: Designing wastewater treatment systems for remote communities
-Grant Amount: $200,000
-Deadline: 2024-10-31
-Eligibility Criteria: Environmental engineers with expertise in water treatment and sanitation 2 .
-While G031 is not directly related to marine biodiversity, it falls within the broader scope of environmental science and could be relevant if your research extends to environmental engineering and the impact of climate change on water treatment in coastal regions.
-
-Please note that both of these grants exceed your funding range, but they are the closest matches to your research area in the provided documents. If you are flexible with the grant amount, these could be potential options to explore. If you require grants strictly within the $50,000 to $100,000 range, I would recommend looking for additional opportunities that may not be listed in the current dataset.
-
-
-
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
