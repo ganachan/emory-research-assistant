@@ -24,7 +24,7 @@ deployment_id = "gpt-35-turbo-16k" # Add your deployment ID here
 # Setting the Azure AI Search endpoint
 # Setting the Azure AI Search admin key (use os.getenv("SEARCH_KEY") to load from environment)
 # Setting the Azure AI Search index name
-search_endpoint = "https://my-search-service1.search.windows.net"; # Add your Azure AI Search endpoint here
+search_endpoint = "https://xxxx.search.windows.net"; # Add your Azure AI Search endpoint here
 search_key = '<insert your keys>'; # os.getenv("SEARCH_KEY")
 search_index_name = "emory-predive-grant-maching"; # Add your Azure AI Search index name here
 
