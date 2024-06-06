@@ -29,7 +29,7 @@ SEARCH_KEY=your_search_key
 Update the configuration in app.py to use your specific endpoints and deployment IDs.
 
 5. Run the Application
-python app.py
+python research_assistant.py
 
 Usage
 Once the application is set up and running, you can interact with the assistant by providing your research area, the amount of funding you are seeking, and a brief description of your background. The assistant will use this information to search the grant data and provide personalized recommendations.
